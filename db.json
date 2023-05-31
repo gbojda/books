@@ -1,10 +1,6 @@
 {
   "books": [
     {
-      "title": "asdad",
-      "id": 2
-    },
-    {
       "title": "Harry Potter",
       "id": 3
     },
@@ -19,10 +15,6 @@
     {
       "title": "asd",
       "id": 6
-    },
-    {
-      "title": "asa",
-      "id": 7
     }
   ]
 }
